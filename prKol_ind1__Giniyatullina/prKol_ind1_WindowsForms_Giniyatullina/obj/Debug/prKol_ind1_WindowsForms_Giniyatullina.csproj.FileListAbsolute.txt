@@ -1,0 +1,11 @@
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\bin\Debug\prKol_ind1_WindowsForms_Giniyatullina.exe.config
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\bin\Debug\prKol_ind1_WindowsForms_Giniyatullina.exe
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\bin\Debug\prKol_ind1_WindowsForms_Giniyatullina.pdb
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\obj\Debug\prKol_ind1_WindowsForms_Giniyatullina.csproj.AssemblyReference.cache
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\obj\Debug\prKol_ind1_WindowsForms_Giniyatullina.Form1.resources
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\obj\Debug\prKol_ind1_WindowsForms_Giniyatullina.Properties.Resources.resources
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\obj\Debug\prKol_ind1_WindowsForms_Giniyatullina.csproj.GenerateResource.cache
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\obj\Debug\prKol_ind1_WindowsForms_Giniyatullina.csproj.CoreCompileInputs.cache
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\obj\Debug\prKol_ind1_WindowsForms_Giniyatullina.exe
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\obj\Debug\prKol_ind1_WindowsForms_Giniyatullina.pdb
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_WindowsForms_Giniyatullina\obj\Debug\prKol_ind1_WindowsForms_Giniyatullina.exe.config

@@ -1,0 +1,8 @@
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_Giniyatullina\bin\Debug\prKol_ind1_Giniyatullina.exe.config
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_Giniyatullina\bin\Debug\prKol_ind1_Giniyatullina.exe
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_Giniyatullina\bin\Debug\prKol_ind1_Giniyatullina.pdb
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_Giniyatullina\obj\Debug\prKol_ind1_Giniyatullina.csproj.AssemblyReference.cache
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_Giniyatullina\obj\Debug\prKol_ind1_Giniyatullina.csproj.CoreCompileInputs.cache
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_Giniyatullina\obj\Debug\prKol_ind1_Giniyatullina.exe
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_Giniyatullina\obj\Debug\prKol_ind1_Giniyatullina.pdb
+C:\Users\79678\Desktop\дз\Мирош\prKol_ind1_Giniyatullina\obj\Debug\prKol_ind1_Giniyatullina.exe.config
